@@ -1,0 +1,25 @@
+.brand-logo{
+    font-family: BakerSignet BT;
+    font-weight: bold;
+    letter-spacing: 0.15rem;
+}
+
+.nav-mobile{
+    font-family: Arial;
+    font-weight: bold;
+}
+
+div ul h1, div ul h3{    
+    text-shadow: 1px 1px 3px white;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+div ul h4, div ul h5{
+    text-shadow: 1px 1px 2px black;
+    font-family: Arial;
+}
+
+div ul li img {
+    filter: blur(2px);
+  }
